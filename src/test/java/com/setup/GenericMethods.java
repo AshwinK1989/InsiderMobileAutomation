@@ -29,7 +29,7 @@ public class GenericMethods {
 	public static WebElement getElement (WebDriver driver,String sLocators)  {
 		
 		try  {
-			
+			waitMethod(driver,sLocators);
 			return driver.findElement(By.xpath(sLocators));
 		}
 		catch (Exception e)  {

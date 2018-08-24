@@ -7,7 +7,3 @@ Feature: UI Functional Test
     And Favorite the Event
     And Login into Application
     Then Check whether the Event is selected as favorite
-    And Go to Cart
-    And Click on Continue
-    And Upload Prescription
-    And Click on Proceed to Checkout

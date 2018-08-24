@@ -33,4 +33,4 @@ Run the TestNG.xml file present under resources folder. OR Right click on the pr
 
 Make sure you have appium and related dependencies installed on your system.
 
-The report will be present in file: /pharmeasy/target/site/cucumber-pretty/index.html
+The basic report will be present in file: /InsiderMobileAutomation/test-output/Insider.in Suite/Insider UI Test.html
